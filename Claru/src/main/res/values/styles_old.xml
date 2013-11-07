@@ -1,0 +1,29 @@
+<resources>
+    <!-- Check styles_claru.xml for the new theme-->
+<!--
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/GreenActionBar</item>
+
+
+    </style>
+    <style name="GreenActionBar" parent="android:Widget.Holo.Light.ActionBar">
+        <item name="android:background">#659D32</item>
+        <item name="android:titleTextStyle">@style/WhiteActionTitle</item>
+        <item name="android:popupMenuStyle">@android:color/white</item>
+    </style>
+    <style name="WhiteActionTitle">
+        <item name="android:textColor">#f1f1f1</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="OverFlowActionIcon" parent="android:Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/action_menu</item>
+        <item name="android:width">20dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+    </style>
+    -->
+</resources>
+
+

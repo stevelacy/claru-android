@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Claru</string>
+    <string name="action_new">New</string>
+    <string name="action_list">List</string>
+    <string name="action_user">Account</string>
+
+    <string name="dialog_title">New Note</string>
+    <string name="dialog_next">Next</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_hint">Title</string>
+
+</resources>
